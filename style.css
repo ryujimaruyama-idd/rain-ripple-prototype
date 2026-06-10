@@ -3,8 +3,8 @@ body {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background: #05070a;
-  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
+  background: #000;
+  font-family: sans-serif;
 }
 
 canvas {
@@ -12,5 +12,5 @@ canvas {
 }
 
 button {
-  font-family: inherit;
+  font-family: sans-serif;
 }
